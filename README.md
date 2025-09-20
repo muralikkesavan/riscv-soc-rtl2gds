@@ -17,9 +17,9 @@ This repository documents my **week-by-week progress** as I learn and implement 
 
 ### Key Learnings from Week 0
 
-- [x] * Verified **open-source EDA toolchain** installation.
-- [x] * Learned about environment setup required for synthesis and simulation.
-- [x] * Prepared the system for complete **RTL to GDSII tapeout flow**.
+- [x] Verified **open-source EDA toolchain** installation.
+- [x] Learned about environment setup required for synthesis and simulation.
+- [x] Prepared the system for complete **RTL to GDSII tapeout flow**.
 
 ---
 
