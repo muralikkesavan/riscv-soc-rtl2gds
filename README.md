@@ -7,34 +7,37 @@ This repository documents my **week-by-week progress** as I learn and implement 
 
 ---
 
-## Project Information
+### Project Information
 
-**Project Name**: RISC-V SoC Tapeout - RTL2GDS
-**Institution**: College of Engineering, Guindy
-**Contact**: [muralikesavan02@gmail.com](mailto:muralikesavan02@gmail.com)
+- **Project Name**: RISC-V SoC Tapeout - RTL2GDS
+- **Institution**: College of Engineering, Guindy
+- **Contact**: [muralikesavan02@gmail.com](mailto:muralikesavan02@gmail.com)
 
 ---
 
 ### Key Learnings from Week 0
 
-* Verified **open-source EDA toolchain** installation.
-* Learned about environment setup required for synthesis and simulation.
-* Prepared the system for complete **RTL to GDSII tapeout flow**.
+- [x] * Verified **open-source EDA toolchain** installation.
+- [x] * Learned about environment setup required for synthesis and simulation.
+- [x] * Prepared the system for complete **RTL to GDSII tapeout flow**.
 
 ---
 
-## Acknowledgment
+### Weekly Progress Tracker
+Week 0 Task Completed
+
+---
+
+### Acknowledgment
 
 I would like to thank **[Kunal Ghosh](https://github.com/kunalg123)** and the **[VLSI System Design (VSD)](https://vsdiat.vlsisystemdesign.com/)** team for this opportunity. This initiative is supported by **RISC-V International**, **India Semiconductor Mission (ISM)**, **VLSI Society of India (VSI)**, and **[Efabless](https://efabless.com/)**.     
 
 ---
 
-## 🔗 Program Links
+### 🔗 Program Links
 
-[https://vsdiat.vlsisystemdesign.com/](https://vsdiat.vlsisystemdesign.com/)
-[https://riscv.org/](https://riscv.org/)
-[https://chipfoundry.io/efabless](https://chipfoundry.io/efabless)
-
-\\
+1. [https://vsdiat.vlsisystemdesign.com/](https://vsdiat.vlsisystemdesign.com/)
+2. [https://riscv.org/](https://riscv.org/)
+3. [https://chipfoundry.io/efabless](https://chipfoundry.io/efabless)
 
 ---
